@@ -33,6 +33,8 @@ The file is for node_modules, since node_modules could meet 2 problems:
 
 - package can solve these problems
 run this command will deal with these problem by package.json
+
+
 $ npm int -y
 
 # gulp_Project
@@ -52,4 +54,6 @@ since gulp-cli can be used to all of gulp project, install it on global
 $ npm install gulp-cli -g
 
 Run:
+
+
 $ gulp gulpfile.js
