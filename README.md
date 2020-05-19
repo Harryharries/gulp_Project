@@ -1,3 +1,26 @@
+WHAT GULP can do:
+
+compressing HTML,CSS,JS
+
+syntax transfer:  es6-> es / less-> css
+
+public file for store things, improve efficiency
+
+listen file change: then refresh the webpage
+
+
+
+method:
+
+gulp.src(): get raw file
+
+gulp.dest(): out put compressing file
+
+gulp.task(): start gulp task
+
+gulp watch(): listen the file change
+
+
 # gulp_Project
 
 Prepare:
